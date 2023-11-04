@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding and computer science
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... harguntasbenipal16@gmail.com
+- 📫 How to reach me ... harguntasbenipal16@gmail.com or harguntas.benipal@mail.utoronto.ca
 
 <!---
 HarguntasBenipal/HarguntasBenipal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
