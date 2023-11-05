@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarguntasBenipal
 - 👀 I’m interested in ... coding and computer science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... ReactJS, DJango and C++.
+- 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... harguntasbenipal16@gmail.com or harguntas.benipal@mail.utoronto.ca
 
 <!---
